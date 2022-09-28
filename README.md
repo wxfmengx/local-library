@@ -1,11 +1,3 @@
-# local-library
-
-Django Local Library
-
-[TOC]
-
-------
-
 # Django Local Library
 
 ## 概述
